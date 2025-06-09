@@ -1,0 +1,18 @@
+Actual output:
+
+<div>
+    <blockquote>
+        <p>COMPLEX <b>QUOTE</b>
+        MUST STAY CHEAP CAUSE
+        okay okay <code>okay</code></p>
+    </blockquote>
+</div>
+
+Test Case:
+
+<div>
+    <blockquote>
+        <p>COMPLEX <b>QUOTE</b>\nMUST STAY CHEAP CAUSE</p>
+        <p>okay okay <code>okay</code></p>
+    </blockquote>
+</div>
